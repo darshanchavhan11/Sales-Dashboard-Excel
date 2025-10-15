@@ -1,0 +1,33 @@
+# 📊 Sales Dashboard – Excel Edition
+
+This project analyzes sales data using Excel, showcasing ETL workflows, KPI tracking, and interactive visualizations.
+
+## 📁 Contents
+- `Sales raw data 2.xlsx`: Original raw data
+- `Sales Dashboard.xlsx`: Final Excel dashboard
+- `Sales_Insights_Report.pdf`: Summary report
+- Documentation:
+  - `Data_Cleaning_Steps.md`
+  - `KPI_Definitions.md`
+  - `Dashboard_Design_Notes.md`
+
+## 🔧 ETL Highlights
+- Removed duplicates and errors
+- Added primary keys
+- Created calculated columns for commission, flags, and KPIs
+
+## 📊 Dashboard Features
+- KPI cards: Total Sales, Commission %, Top Reps
+- Filters: Date, Item, State (via slicers)
+- Visuals: Bar charts, pie charts, line graphs
+
+## 📌 Insights
+- Top-performing reps and regions
+- High-margin products
+- Sales trends over time
+
+## 🧠 Tools Used
+- Microsoft Excel (Formulas, Pivot Tables, Charts)
+
+## 📚 Author
+Darshan – Aspiring Operations Analyst
